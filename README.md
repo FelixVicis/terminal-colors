@@ -1,4 +1,4 @@
-# Terminal Colors
+# Bash Terminal Colors
 #### A python flavored wrapper for coloring terminal output
 
 This service offers ANSI escaped color sequences.
